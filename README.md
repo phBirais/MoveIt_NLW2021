@@ -23,7 +23,8 @@ Tela quando abre a plataforma, permita notificações e pressione inicial um cic
 ![2021-03-01-15-47-42](https://user-images.githubusercontent.com/13524043/109544163-fd222d00-7aa5-11eb-8e48-4dca7823249a.gif)
 
 ### Funcionamento
-https://user-images.githubusercontent.com/13524043/109544339-30fd5280-7aa6-11eb-8372-6769ce991018.mp4
+Segue abaixo o exemplo de como utilizar a plataforma para gerenciar seu tempo:
+![2021-03-01-15-47-42](https://user-images.githubusercontent.com/13524043/109544163-fd222d00-7aa5-11eb-8e48-4dca7823249a.gif)
 
 
 ## Copiar para sua máquina
