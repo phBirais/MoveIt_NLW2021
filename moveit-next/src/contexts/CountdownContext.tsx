@@ -22,7 +22,7 @@ export function CountdownProvider({children}: CountdownProviderProps){
     
     const {startNewChallenge} = useContext(ChallengesContext);
     //variavel de stado
-    const[time, setTime] = useState(0.1 * 60);
+    const[time, setTime] = useState(25 * 60);
     const[isActive, setIsActive]=useState(false);
     const[hasFinished, setHasFinished] = useState(false);
     //Calculo dos minutos
@@ -36,7 +36,7 @@ export function CountdownProvider({children}: CountdownProviderProps){
     function resetCountdown(){
         clearTimeout(countdownTimeout);//tirar o delay de 1s após o click do botão
         setIsActive(false);
-        setTime(0.1*60);
+        setTime(25*60);
         setHasFinished(false);
     }
 
