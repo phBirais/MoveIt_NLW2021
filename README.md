@@ -1,5 +1,5 @@
 # MoveIt_NLW2021
-Criação do Move It: Plataforma de gerenciamento de tempo utilizando o método Pomodoro, desenvolvida durante a Next Level Week, Fevereiro de 2021, utilizando React JS.
+Criação do Move It: Plataforma de gerenciamento de tempo gamificada utilizando o método Pomodoro, desenvolvida durante a Next Level Week, Fevereiro de 2021, utilizando as tecnologias ReactJS, NextJs, CSS e HTML.
 
 Para acessar um demonstrativo da aplicação Acesse: https://moveit-phb.vercel.app
 
@@ -12,9 +12,14 @@ A cada quatro ciclos, faça uma pausa maior (entre 15 e 30 minutos) para descans
 
 ![uma-ajudinha-nos-estudos-tecnica-pomodoro-uma-ajudinha-nos-estudos-tecnica-pomodoro-2](https://user-images.githubusercontent.com/13524043/109508425-9ccbc500-7a7e-11eb-970e-c7eed47e9763.png)
 
-[Link de referência](https://www.unifebe.edu.br/site/blog/uma-ajudinha-nos-estudos-tecnica-pomodoro/)
+Link de referência: [Técnica Pomodoro](https://www.unifebe.edu.br/site/blog/uma-ajudinha-nos-estudos-tecnica-pomodoro/)
 
 ## A aplicação
+Aplicação consiste em uma SPA(Single page application) na qual o usuário pode controlar os ciclos no métodos pomodoro. Quando esse ciclo é encerrado uma atividade de relaxamento é mostrada na tela valendo pontos de experiência. A cada ciclo + atividade encerrada o usuário ganha mais pontos e pode subir de nível.
+
+### Tela inicial
+Tela quando abre a plataforma, permita notificações e pressione inicial um ciclo para começar.
+
 ![MainPage](https://user-images.githubusercontent.com/13524043/109503402-fa5d1300-7a78-11eb-9af8-0937897c1aa6.jpg)
 
 
