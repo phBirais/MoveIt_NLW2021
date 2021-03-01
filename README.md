@@ -20,7 +20,7 @@ Aplicação consiste em uma SPA(Single page application) na qual o usuário pode
 ### Tela inicial
 Tela quando abre a plataforma, permita notificações e pressione inicial um ciclo para começar.
 
-![MainPage](https://user-images.githubusercontent.com/13524043/109503402-fa5d1300-7a78-11eb-9af8-0937897c1aa6.jpg)
+![2021-03-01-15-47-42](https://user-images.githubusercontent.com/13524043/109544163-fd222d00-7aa5-11eb-8e48-4dca7823249a.gif)
 
 ### Funcionamento
 https://user-images.githubusercontent.com/13524043/109544339-30fd5280-7aa6-11eb-8372-6769ce991018.mp4
