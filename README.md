@@ -20,7 +20,7 @@ Aplicação consiste em uma SPA(Single page application) na qual o usuário pode
 ### Tela inicial
 Tela quando abre a plataforma, permita notificações e pressione inicial um ciclo para começar.
 
-![2021-03-01-15-47-42](https://user-images.githubusercontent.com/13524043/109544163-fd222d00-7aa5-11eb-8e48-4dca7823249a.gif)
+![MainPage](https://user-images.githubusercontent.com/13524043/109545623-d95fe680-7aa7-11eb-84e5-4b4762b544d3.jpg)
 
 ### Funcionamento
 Segue abaixo o exemplo de como utilizar a plataforma para gerenciar seu tempo:
