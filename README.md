@@ -22,6 +22,18 @@ Tela quando abre a plataforma, permita notificações e pressione inicial um cic
 
 ![MainPage](https://user-images.githubusercontent.com/13524043/109503402-fa5d1300-7a78-11eb-9af8-0937897c1aa6.jpg)
 
+### Funcionamento
+https://user-images.githubusercontent.com/13524043/109544339-30fd5280-7aa6-11eb-8372-6769ce991018.mp4
+
+
+## Copiar para sua máquina
+Para rodar e modificar a aplcação do seu jeito basta seguir o passo a passo.
+1. Clone o repositório para uma pasta desejada
+2. Abra o terminal de sua prefêrencia 
+3. Entre na pasta moveit-next
+4. Digite *Yarn Dev*
+5. No navegador, entre em localhost:3000
+6. Pronto! é só testar e modificar como quiser.
 
 
 
